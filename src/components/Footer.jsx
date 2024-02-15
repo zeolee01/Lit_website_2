@@ -16,17 +16,17 @@ function Footer() {
         <div className="flex flex-row ml-4 pr-10 mt-2">
           <ul className="flex flex-row ">
             <li className="flex ml-4 mr-4 text-3xl text-gray-400">
-              <a href="https://tailwindcss.com/docs/font-size">
+              <a href="https://tailwindcss.com/docs/font-size" className="hover:text-sky-700">
                 <FaInstagram />
               </a>
             </li>
             <li className="flex ml-4 mr-4 text-3xl text-gray-400">
-              <a href="">
+              <a href="" className="hover:text-sky-700">
                 <FaLinkedin />
               </a>
             </li>
             <li className="flex ml-4 mr-4 text-3xl text-gray-400">
-              <a href="">
+              <a href="" className="hover:text-sky-700">
                 <FaXTwitter />
               </a>
             </li>
