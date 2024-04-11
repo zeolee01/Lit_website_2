@@ -30,9 +30,9 @@ function Footer() {
               >
                 <FaLocationDot className="hover:text-red-600" />
               </a>
-              <a href="https://github.com/agnt17/Lit_website_2" target="_blank">
+{/*               <a href="https://github.com/agnt17/Lit_website_2" target="_blank">
                 <FaGithub className="hover:text-blue-600 ml-4" />
-              </a>
+              </a> */}
               <a href="https://lit-website-2.vercel.app/" target="_blank">
                 <FaLink className=" ml-4 hover:text-emerald-600" />
               </a>
